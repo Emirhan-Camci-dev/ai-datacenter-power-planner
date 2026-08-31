@@ -50,7 +50,7 @@ AIGrid-Planner follows a **Dual-Licensing** Open-Core model:
 The Enterprise license is designed for Facility Planners & EPCs ($18,000 – $48,000/year per facility/project). 
 It includes an **Offline Ed25519 Cryptographic License Validator**, allowing secure on-device execution without internet dependency.
 
-👉 [**Purchase Enterprise License via Polar.sh**](https://polar.sh/aigrid-planner)
+👉 [**Purchase Enterprise License via Polar.sh**](https://buy.polar.sh/polar_cl_HB7bWBdh23364RnjCayLQGrsd2G7cY89z6beD0x3dJE)
 
 ---
 *Author: Emirhan CAMCI (@byemir) | © 2026*
